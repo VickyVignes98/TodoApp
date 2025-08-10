@@ -1,0 +1,47 @@
+﻿# Node.js
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# dotenv environment variables
+.env
+.env.local
+.env.*.local
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Build output
+build/
+out/
+
+# Dependency directories
+jspm_packages/
+
+# .NET
+bin/
+obj/
+*.user
+*.rsuser
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db

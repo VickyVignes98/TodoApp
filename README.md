@@ -63,7 +63,8 @@ Runs at:
 ---
 
 ## 📸 Screenshots
-*(Include screenshots here if needed)*
+<img width="558" height="415" alt="image" src="https://github.com/user-attachments/assets/62878563-4414-40bf-b3a6-3cae6e396096" />
+
 
 ---
 
